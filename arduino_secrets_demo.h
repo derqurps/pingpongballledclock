@@ -1,0 +1,13 @@
+#define SECRET_WIFI1_PASS "SSID"
+#define SECRET_WIFI1_SSID "PASSWORD"
+
+
+#define SECRET_MQTT_SERVER "MQTTServer"
+#define SECRET_MQTT_USER "MQTTUser"
+#define SECRET_MQTT_PASS "MQTTPassword"
+
+#define SECRET_NTP_SERVER "NTPServer"
+
+#define SECRET_HOST "pingpongclock"
+
+#define SECRET_TIMEZONE_POSIX "CET-1CEST,M3.5.0,M10.5.0/3"
